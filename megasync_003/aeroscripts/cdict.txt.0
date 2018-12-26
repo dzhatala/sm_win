@@ -1,0 +1,21 @@
+NUM_0	k+o k-o+s o-s+o s-o+ng o-ng
+NUM_0	ng-k+o k-o+s o-s+o s-o+ng o-ng+k
+NUM_0	u-k+o k-o+s o-s+o s-o+ng o-ng+s
+NUM_0	a-k+o k-o+s o-s+o s-o+ng o-ng+d
+NUM_0	a-k+o k-o+s o-s+o s-o+ng o-ng+t
+NUM_0	t-k+o k-o+s o-s+o s-o+ng o-ng+a
+NUM_0	a-k+o k-o+s o-s+o s-o+ng o-ng+l
+NUM_0	m-k+o k-o+s o-s+o s-o+ng o-ng+a
+NUM_0	h-k+o k-o+s o-s+o s-o+ng o-ng+t
+NUM_0	n-k+o k-o+s o-s+o s-o+ng o-ng+d
+NUM_0	n-k+o k-o+s o-s+o s-o+ng o-ng+s
+NUM_1	ng-s+a s-a+t a-t+u t-u+k 
+NUM_2	ng-d+u d-u+w u-w+a w-a+k
+NUM_3	ng-t+i t-i+g i-g+a g-a+k 
+NUM_4	ng-a+m a-m+p m-p+a p-a+t a-t+k
+NUM_5	ng-l+i l-i+m i-m+a m-a+k
+NUM_6	ng-a+n a-n+a n-a+m a-m+k
+NUM_7	ng-t+u t-u+j u-j+u j-u+h u-h+k
+NUM_8	ng-l+a l-a+p a-p+a p-a+n a-n+k
+NUM_9	ng-s+e s-e+m e-m+b m-b+i b-i+l i-l+a l-a+n  a-n+k
+SILSP	sil

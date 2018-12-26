@@ -1,0 +1,1 @@
+ii  praat                                       6.0.4-2ubuntu1                                      amd64        program for speech analysis and synthesis

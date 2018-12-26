@@ -1,0 +1,37 @@
+VERSION=1.0
+N=12   L=23   
+I=0    W=!NULL               
+I=1    W=!NULL               
+I=2    W=SILSP               
+I=3    W=!NULL               
+I=4    W=SILSP               
+I=5    W=NUM_0               
+I=6    W=!NULL               
+I=7    W=NUM_1               
+I=8    W=SILSP               
+I=9    W=NUM_0               
+I=10   W=!NULL               
+I=11   W=NUM_1               
+J=0     S=3    E=1    
+J=1     S=8    E=1    
+J=2     S=0    E=2    
+J=3     S=2    E=3    
+J=4     S=4    E=3    
+J=5     S=3    E=4    
+J=6     S=6    E=4    
+J=7     S=8    E=4    
+J=8     S=3    E=5    
+J=9     S=6    E=5    
+J=10    S=8    E=5    
+J=11    S=5    E=6    
+J=12    S=7    E=6    
+J=13    S=3    E=7    
+J=14    S=6    E=7    
+J=15    S=8    E=7    
+J=16    S=10   E=8    
+J=17    S=3    E=9    
+J=18    S=8    E=9    
+J=19    S=9    E=10   
+J=20    S=11   E=10   
+J=21    S=3    E=11   
+J=22    S=8    E=11   

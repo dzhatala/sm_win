@@ -1,0 +1,4 @@
+NUM_0	k+o k-o+s o-s+o s-o+ng o-ng
+NUM_0	u-k+o k-o+s o-s+o s-o+ng o-ng+s
+NUM_1	ng-s+a s-a+t a-t+u t-u+k 
+SILSP	sil
