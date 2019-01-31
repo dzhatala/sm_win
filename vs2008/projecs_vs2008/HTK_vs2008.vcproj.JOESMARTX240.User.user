@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioUserFile
+	ProjectType="Visual C++"
+	Version="9,00"
+	ShowAllFiles="true"
+	>
+	<Configurations>
+		<Configuration
+			Name="Debug|Win32"
+			>
+			<DebugSettings
+				Command="$(TargetPath)"
+				WorkingDirectory="F:\rsync\RESEARCHS\htkbook_to_c_code\htk_normalization_adaptation\scripts_energy"
+				CommandArguments="-l ..\..\wavs\results -y recw  -T 1  -g  -w cwords.net -C configlive.txt  -H hmm12\hmmdefs -o S  cdict.txt triphones1_srtd"
+				Attach="false"
+				DebuggerType="3"
+				Remote="1"
+				RemoteMachine="JOESMARTX240"
+				RemoteCommand=""
+				HttpUrl=""
+				PDBPath=""
+				SQLDebugging=""
+				Environment=""
+				EnvironmentMerge="true"
+				DebuggerFlavor="0"
+				MPIRunCommand=""
+				MPIRunArguments=""
+				MPIRunWorkingDirectory=""
+				ApplicationCommand=""
+				ApplicationArguments=""
+				ShimCommand=""
+				MPIAcceptMode=""
+				MPIAcceptFilter=""
+			/>
+		</Configuration>
+		<Configuration
+			Name="Release|Win32"
+			>
+			<DebugSettings
+				Command="$(TargetPath)"
+				WorkingDirectory="F:\rsync\RESEARCHS\htkbook_to_c_code\htk_normalization_adaptation\scripts_energy"
+				CommandArguments="-T 1  -g  -w cwords.net -C configlive.txt  -H hmm12\hmmdefs -o S  cdict.txt triphones1_srtd"
+				Attach="false"
+				DebuggerType="3"
+				Remote="1"
+				RemoteMachine="JOESMARTX240"
+				RemoteCommand=""
+				HttpUrl=""
+				PDBPath=""
+				SQLDebugging=""
+				Environment=""
+				EnvironmentMerge="true"
+				DebuggerFlavor="0"
+				MPIRunCommand=""
+				MPIRunArguments=""
+				MPIRunWorkingDirectory=""
+				ApplicationCommand=""
+				ApplicationArguments=""
+				ShimCommand=""
+				MPIAcceptMode=""
+				MPIAcceptFilter=""
+			/>
+		</Configuration>
+	</Configurations>
+</VisualStudioUserFile>

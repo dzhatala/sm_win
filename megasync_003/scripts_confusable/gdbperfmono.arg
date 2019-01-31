@@ -1,0 +1,1 @@
+-S train.lst -I monoref.mlf phonems.lst recph.mlf
